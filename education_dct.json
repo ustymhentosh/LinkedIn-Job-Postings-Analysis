@@ -1,0 +1,95 @@
+{
+  "no_education": [
+    "no education required",
+    "no diploma needed",
+    "no education necessary",
+    "no formal education",
+    "no degree required"
+  ],
+  "high_school": [
+    "high school",
+    "high school diploma",
+    "highschool",
+    "high school graduate",
+    "high school degree",
+    "ged",
+    "general education diploma",
+    "general education degree",
+    "secondary school"
+  ],
+  "associate_degree": [
+    "associate degree",
+    "associates degree",
+    "associate's degree",
+    "aas",
+    "as degree",
+    "aa degree"
+  ],
+  "bachelor_degree": [
+    "bachelor degree",
+    "bachelor's degree",
+    "bachelors degree",
+    "bachelor of arts",
+    "bachelor of science",
+    "b.a.",
+    "bs",
+    "b.s.",
+    "undergraduate degree",
+    "four-year degree",
+    "4 year degree"
+  ],
+  "master_degree": [
+    "master degree",
+    "master's degree",
+    "masters degree",
+    "graduate degree",
+    "postgraduate degree",
+    "m.a.",
+    "ms",
+    "m.s.",
+    "master of arts",
+    "master of science",
+    "mba",
+    "m.b.a.",
+    "master of business administration"
+  ],
+  "doctoral_degree": [
+    "doctoral degree",
+    "doctorate",
+    "phd",
+    "ph.d.",
+    "doctor of philosophy",
+    "research doctorate",
+    "academic doctorate"
+  ],
+  "professional_degree": [
+    "professional degree",
+    "medical degree",
+    "jd",
+    "j.d.",
+    "juris doctor",
+    "law degree",
+    "m.d.",
+    "md",
+    "doctor of medicine",
+    "dvm",
+    "doctor of veterinary medicine",
+    "dds",
+    "d.d.s.",
+    "dmd",
+    "d.m.d.",
+    "doctor of dental surgery"
+  ],
+  "vocational": [
+    "technical degree",
+    "certificate",
+    "diploma",
+    "trade school",
+    "vocational school",
+    "vocational certificate",
+    "post-secondary education",
+    "specialized training",
+    "certification",
+    "apprenticeship"
+  ]
+}
